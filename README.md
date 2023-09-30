@@ -5,12 +5,14 @@
 </p>
 
 Esse é um projeto que fiz em forma de desafio para conclusão de módulo de HTML e CSS do curso da Cod3r.
-Retirei a ideia e o desafio do vídeo **"Analisando o HTML e CSS dos estagiários"** do canal **DevMedia** que pode ser visto [aqui](https://www.youtube.com/watch?v=YPYwND5WGxw&t=61s).<br><br>
-[Clique aqui para visitar a página deste projeto](https://luaxlz.github.io/turismo-responsivo/)<br>
+Retirei a ideia e o desafio do vídeo **"Analisando o HTML e CSS dos estagiários"** do canal **DevMedia** que pode ser visto [aqui](https://www.youtube.com/watch?v=YPYwND5WGxw&t=61s).
+<br><br>
+[Clique aqui para visitar a página deste projeto](https://luaxlz.github.io/Responsive-Turism-LandingPage/)
+<br>
 
 
 ## Proposta:
-> A proposta do desafio é fazer uma página totalmente responsiva com html e css puro, foi repassado 4 layouts 320px, 450px, 768px e 1366px, o objetivo era criar uma página responsiva que se adequasse a cada uma dessas resoluções dentro do layout proposto, para tal seria necessário usar todo o conhecimento adquirido no curso. Você pode verificar os layouts originais [aqui](https://github.com/Luaxlz/turismo-responsivo/tree/main/layout)
+> A proposta do desafio é fazer uma página totalmente responsiva com html e css puro, foi repassado 4 layouts 320px, 450px, 768px e 1366px, o objetivo era criar uma página responsiva que se adequasse a cada uma dessas resoluções dentro do layout proposto, para tal seria necessário usar todo o conhecimento adquirido no curso. Você pode verificar os layouts originais [aqui](https://github.com/Luaxlz/Responsive-Turism-LandingPage/tree/main/layout)
 
 ## Desafios:
 Criar uma página totalmente responsiva foi bem desafiador e por momentos tive de buscar soluções ou ideias externas, mas reconheço que foi muito importante para fixar o conhecimento e entender melhor como funciona a tecnologia html e css, reconheço também que esse desafio me trouxe lucidez quando ao código em si e como melhorar minha escrita, ou seja, alcansar o tão aclamado código limpo e claro, algo que tenho muita preocupação em desenvolver ao longo dos meus estudos e carreira.
