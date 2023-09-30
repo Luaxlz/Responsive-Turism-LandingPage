@@ -33,10 +33,3 @@ Utilizei para fazer a galeria de imagens o CSS Grid, alinhando as imagens confor
 ```
 Utilizei também para criar a responsividade a propriedade @media do CSS, um **erro que me ensinou muito nesta etapa** foi o fato de começar a codar pela versão desktop da página, discutindo com outros devs depois e também lendo um pouco na internet descobri que era muito mais fácil e intuitivo começar pela versão mobile pois melhora muito a responsividade do site e deixa o código mais limpo.
 Uma grande dificuldade que tive foi com a estilização dos formulários e labels, tive que dedicar um bom tempo para estudo e analise para criar essa parte da página.
-
-## Próximos passos:
-Pretendo começar a adicionar mais funcionalidades com JavaScript e CSS, tais como:
-- [ ] Adicionar responsividade entre páginas usando JS
-- [ ] Adicionar funcionalidade Back-end com JS e AJAX para formulários
-- [ ] Adicionar animações em CSS
-- [ ] Refatorar código para melhorar clareza e rever funcionalidades.
